@@ -1,0 +1,6 @@
+{
+  "name": "Fossitt Atlas — Irish Habitat Architecture Studio",
+  "description": "An interactive landscape architecture visual studio for exploring the botanical structure, growth forms, and textural cross-sections of Irish habitats classified in Julie A. Fossitt's Guide to Habitats in Ireland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
